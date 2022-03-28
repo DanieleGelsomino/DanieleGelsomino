@@ -1,16 +1,23 @@
-### Hi there 👋
 
 <!--
 **DanieleGelsomino/DanieleGelsomino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋 there! I'm Daniele :grin:</h1>
+<h3 align="center">I'm currently studying with Boolean careers to become full-stack web developer</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/denny.gelso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dennygelso" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Framewors i know and study:</h3>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleGelsomino&show_icons=true&theme=radical)](https://github.com/DanieleGelsomino/github-readme-stats)
+
+
