@@ -19,6 +19,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGelsosmino&layout=compact)](https://github.com/DanieleGelsomino/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleGelsomino&show_icons=true&theme=radical)](https://github.com/DanieleGelsomino/github-readme-stats)
 
 
