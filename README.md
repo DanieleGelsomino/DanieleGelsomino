@@ -18,7 +18,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-<img src="https://user-images.githubusercontent.com/96072268/161374582-fd35a2c4-069a-4c52-966d-6dd1b87d1c98.png" width="40" height="40"/></p>
+<img src="https://user-images.githubusercontent.com/96072268/161374582-fd35a2c4-069a-4c52-966d-6dd1b87d1c98.png" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /></p>
+
+          
+          
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGelsomino&layout=compact)](https://github.com/DanieleGelsomino/github-readme-stats)
 
