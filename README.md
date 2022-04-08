@@ -4,7 +4,7 @@
 -->
 
 <h1 align="center">Hi 👋 there! I'm Daniele :grin:</h1>
-<h3 align="center">I'm currently studying with <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> Boolean careers to become full-stack web developer</h3>
+<h3 align="center">I'm currently studying with <a href="https://boolean.careers/" target="blank"><img align="center" src="https://boolean.careers/favicon/favicon.ico" alt="boolean.careers" height="30" width="30" /></a> Boolean careers to become Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanieleGelsomino7&label=Profile%20views&color=0e75b6&style=flat" alt="DanieleGelsomino" /> </p>
 
