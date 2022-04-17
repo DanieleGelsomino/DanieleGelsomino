@@ -13,8 +13,11 @@
 <a href="https://www.instagram.com/denny.gelso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dennygelso" height="30" width="40" /></a>
 </p>
 
+<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+          
+
 <h3 align="left">Languages and Framewors i know and study:</h3>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
@@ -22,7 +25,8 @@
 <img src="https://user-images.githubusercontent.com/96072268/161374582-fd35a2c4-069a-4c52-966d-6dd1b87d1c98.png" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /></p>
-          
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGelsomino&layout=compact)](https://github.com/DanieleGelsomino/github-readme-stats)
 
