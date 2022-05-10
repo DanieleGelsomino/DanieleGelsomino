@@ -13,18 +13,28 @@
 <a href="https://www.instagram.com/denny.gelso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dennygelso" height="30" width="40" /></a>
 </p>
 
+📫 How to reach me **daniele.gelsomino95@gmail.com**
+
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
           
 
 <h3 align="left">Languages and Framewors i know and study:</h3>
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-<img src="https://user-images.githubusercontent.com/96072268/161374582-fd35a2c4-069a-4c52-966d-6dd1b87d1c98.png" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /></p>
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://vuejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://sass-lang.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/></a>
+    <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="48" /></a>
+            <a style="padding-right:8px;" href="https://code.visualstudio.com/" target="_blank">
+</p>
+
+<p align="left">
+  <a margin-right="8" href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>  
+ </p>
 
 
 
