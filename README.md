@@ -6,7 +6,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-<h3 align="center">I'm  a Jr Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 📫 How to reach me **daniele.gelsomino95@gmail.com**
 
